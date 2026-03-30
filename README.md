@@ -213,6 +213,6 @@ Salesforce is a powerful platform that enables organizations to build scalable a
 
 ### Authors
 
-Vikas Rawat
+Vikas Rawat &&
 Digvijay Singh Rajawat
 
