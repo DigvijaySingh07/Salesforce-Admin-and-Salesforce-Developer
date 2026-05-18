@@ -1,4 +1,4 @@
-# Sexforce-Admin-and-Sexforce-Developer
+# Salesforce-Admin-and-Salesforce-Developer
 # ALL ABOUT SALESFORCE
 
 ## Complete Learning Guide
